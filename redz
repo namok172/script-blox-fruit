@@ -1,0 +1,6 @@
+Config = {
+	namescript ='skibidi'
+	logonscript ='111828463929920'
+	credit ='NTN gaming'
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
